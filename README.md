@@ -4,7 +4,7 @@ Este é um sistema em Java para gerenciamento de filmes, desenvolvido para a UC 
 
 O sistema permite realizar operações de **CRUD** (Criar, Listar, Buscar, Editar e Excluir) com persistência de dados em arquivo `.txt`.
 
-![Diagrama da Classe Filme](DiagramadeClasse.jpg)
+![Diagrama da Classe Filme](lib/DiagramadeClasse.jpg)
 
 
 ### Funcionalidades
@@ -50,10 +50,11 @@ O programa abrirá um menu no terminal para você interagir.
 ├── src/
 │   ├── App.java
 │   ├── Filme.java
-│   └── FilmeService.java
-├── DiagramadeClasse.jpg  (ou DiagramadeClasse.png, dependendo do formato)
-├── README.md
-└── filmes.txt            (será criado automaticamente ao salvar o primeiro filme)
+│   ├── FilmeService.java 
+│   ├── filmes.txt        (será criado automaticamente ao salvar o primeiro filme)
+│   └── README.md 
+└── lib/
+    └──  DiagramadeClasse.jpg 
 
 ```
 
