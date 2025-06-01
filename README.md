@@ -50,11 +50,12 @@ O programa abrirá um menu no terminal para você interagir.
 ├── src/
 │   ├── App.java
 │   ├── Filme.java
-│   ├── FilmeService.java 
-│   ├── filmes.txt        (será criado automaticamente ao salvar o primeiro filme)
-│   └── README.md 
-└── lib/
-    └──  DiagramadeClasse.jpg 
+│   └── FilmeService.java 
+├── lib/
+│   └── DiagramadeClasse.jpg 
+│
+├── filmes.txt        (será criado ao salvar o primeiro filme)
+└── README.md 
 
 ```
 
