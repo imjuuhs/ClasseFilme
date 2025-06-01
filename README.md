@@ -26,11 +26,11 @@ O sistema permite realizar operações de **CRUD** (Criar, Listar, Buscar, Edita
 ### Como Compilar e Executar
 
 
-**1.** Abra o terminal (Prompt de Comando ou Terminal).
+**1.** Abra o terminal (**Prompt de Comando** ou **Terminal**).
 
-**2.** Navegue até a pasta onde estão os arquivos `.java` (`App.java`, `Filme.java`, `FilmeService.java`).
+**2.** Navegue até a pasta onde estão os arquivos `.java` (`App.java`, `Filme.java`, `FilmeService.java`) com o comando abaixo
 ```
-cd caminho/para/seu/projeto
+cd caminho/para/seu/projeto 
 ```
 
 **3.** Compile os arquivos com o comando:
